@@ -4,7 +4,7 @@ Full Stack E-commerce application with Angular front-end and Spring Boot back-en
 
 
 ##  Architecture
-```mermaid.js
+```mermaid
 
 graph TD
     A[User] -->|HTTP Requests| B[Angular Frontend]
